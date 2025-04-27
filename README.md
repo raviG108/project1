@@ -58,7 +58,7 @@ docker-compose up
 
 
 
-![Screenshot from 2025-04-27 11-03-48](https://github.com/user-attachments/assets/e467f46a-bfa4-4a77-9a62-65cc8e3d199c)
+
 
 
 
