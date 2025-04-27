@@ -52,3 +52,15 @@ development:
 
 
 docker-compose up
+
+
+
+![Screenshot from 2025-04-27 11-03-48](https://github.com/user-attachments/assets/1f16a7c5-b378-4226-bf3a-5e564a5ab827)
+
+
+![Screenshot from 2025-04-27 11-05-46](https://github.com/user-attachments/assets/39d9568c-b277-4a0c-b714-94b13eb403ed)
+
+![Screenshot from 2025-04-27 14-02-20](https://github.com/user-attachments/assets/f0fe5d82-77e0-490b-99c3-a140cc93618e)
+
+
+
